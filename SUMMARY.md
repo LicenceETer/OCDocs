@@ -1,6 +1,6 @@
 # Table of contents
 
-* [系统管理指南](README.md)
+* [系统管理指南](readme/README.md)
   * [1. 基本环境配置](readme/1.-ji-ben-huan-jing-pei-zhi/README.md)
     * [1.1. 查看系统信息](readme/1.-ji-ben-huan-jing-pei-zhi/1.1.-cha-kan-xi-tong-xin-xi.md)
     * [1.2. 管理日期和时间](readme/1.-ji-ben-huan-jing-pei-zhi/1.2.-guan-li-ri-qi-he-shi-jian.md)
